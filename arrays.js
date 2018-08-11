@@ -30,7 +30,9 @@ var superheroines = ["catwoman", "she-hulk", "mystique"];
 superheroines.push("wonder woman");
 // superheroines is now ["catwoman", "she-hulk", "mystique", "wonder woman"]
 
-var cities = ["New York", "San Francisco"]
+var cities = ["New York", "San Francisco"];
  
-cities.unshift("Philadelphia")
+cities.unshift("Philadelphia");
 // cities is now ["Philadelphia", "New York", "San Francisco"]
+
+var addElementToBeginningOfArray (array, element)

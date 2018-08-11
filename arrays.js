@@ -31,3 +31,4 @@ superheroines.push("wonder woman");
 var cities = ["New York", "San Francisco"]
  
 cities.unshift("Philadelphia")
+// cities is now ["Philadelphia", "New York", "San Francisco"]

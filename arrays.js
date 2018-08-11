@@ -23,10 +23,12 @@ var tomatoSauceIngredients = [
 ];
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles" ];
+// my TODO task
 
 var superheroines = ["catwoman", "she-hulk", "mystique"];
  
 superheroines.push("wonder woman");
+// superheroines is now ["catwoman", "she-hulk", "mystique", "wonder woman"]
 
 var cities = ["New York", "San Francisco"]
  
